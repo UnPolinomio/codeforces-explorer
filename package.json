@@ -1,0 +1,15 @@
+{
+  "name": "codeforces-explorer",
+  "version": "0.0.1",
+  "description": "A codeforces problem set explorer",
+  "repository": "git@github.com:UnPolinomio/codeforces-explorer.git",
+  "author": "@UnPolinomio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
